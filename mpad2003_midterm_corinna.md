@@ -25,6 +25,9 @@ And to create an unordered list, we simply put a star (`*`) before each item.
 ## 1. Introduction
 
 In this essay I will...
+* hello 
+* Hi
+* Testing
 
 ## 2. Getting Data
 
